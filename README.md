@@ -70,15 +70,15 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -91,11 +91,7 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![snake gif](https://github.com/mohsinkhan117/mohsinkhan117/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -2,35 +2,34 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 10
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mohsinkhan117
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - name: Generate Snake (Dark Mode)
-        uses: Platane/snk@master
-        id: snake-gif-dark
-        with:
-          github_user_name: mohsinkhan117
-          gif_out_path: dist/github-contribution-grid-snake-dark.gif
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
