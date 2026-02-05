@@ -1,94 +1,113 @@
-# Hi there <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> 
-## Flutter Mobile Developer | Cross-Platform Specialist
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> </h1>
+<h3 align="center">Flutter Mobile Developer | Cross-Platform Specialist</h3>
 
-I'm **M Mohsin Khan**, a passionate Flutter developer specializing in building high-performance, scalable mobile applications for Android and iOS. With expertise in full-stack mobile development, I create seamless user experiences backed by robust backend integration.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+M+Mohsin+Khan;Flutter+Android+and+iOS+Developer;Full-Stack+Mobile+Development" alt="Typing SVG" />
+</p>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
+
+## 🚀 About Me
+
+I'm a passionate **Flutter developer** specializing in building high-performance, scalable mobile applications for Android and iOS. With expertise in full-stack mobile development, I create seamless user experiences backed by robust backend integration.
 
 ---
 
 ## 🐍 GitHub Contributions Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/mohsinkhan117/profile/output/github-contribution-grid-snake.svg)
 
-
+*This animation visualizes my GitHub contributions - the snake eats my commits! 🐍*
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack & Tools
 
-### **Core Expertise**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-
-### **Backend & Databases**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=profile" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
 
+## 🌟 Expertise
+
+- **Cross-Platform Development:** Flutter for Android & iOS
+- **Backend Integration:** REST APIs, Firebase, AWS Services
+- **Database Management:** SQL Server, MySQL, PostgreSQL, SQLite
+- **State Management:** Provider, Riverpod, BloC
+- **App Architecture:** Clean Architecture, MVVM, MVC
+- **DevOps:** CI/CD, GitHub Actions, Automated Testing
 
 ---
 
-## 🌟 Professional Focus
+## 📫 Connect With Me
 
-- 🔭 **Currently:** Developing enterprise-grade mobile applications using Flutter
-- 💡 **Specialized in:** Cross-platform development, API integration, and performance optimization
-- 🚀 **Passionate about:** Clean architecture, state management, and scalable app development
-- 📱 **Expertise:** Full mobile development lifecycle from concept to deployment
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhsin-archon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
+  </a>
+  <a href="mailto:mohsinkhanmandan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=923315265967&text=Hi%2C%20Mohsin%20Khan" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="whatsapp" />
+  </a>
+  <a href="https://stackoverflow.com/users/32317822/mohsin-khan" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" alt="stackoverflow" />
+  </a>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🔧 Repository Setup
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-archon/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinkhanmandan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923315265967&text=Hi%2C%20Mohsin%20Khan)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32317822/mohsin-khan)
+This profile repository uses:
+- **README.md**: This profile showcase
+- **snake.yml**: GitHub Action workflow that generates the snake animation
+- **Output Branch**: Contains the generated snake SVG files
+
+The snake animation automatically updates daily with my latest GitHub contributions!
 
 ---
 
-## 🔧 Setup Instructions for Snake Animation
+## 💼 Professional Mantra
 
-To add the snake animation to your profile, you need to:
+> "Code with purpose, build with passion, and deliver with precision. Every line of code is a step towards creating exceptional digital experiences."
 
-1. **Create a `.github/workflows/snake.yml` file** in your repository with this content:
-```yaml
-name: Generate Snake Animation
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohsinkhan117&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/mohsinkhan117/profile?style=flat-square&color=7CFC00&label=LAST+UPDATE" alt="Last Commit" />
+</div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</p>
