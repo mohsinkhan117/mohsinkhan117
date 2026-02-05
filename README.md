@@ -69,14 +69,17 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&dates=c9d1d9" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
 ---
 
@@ -85,6 +88,8 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan117&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=c9d1d9&area=true&area_color=00C853" width="100%"/>
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg">
