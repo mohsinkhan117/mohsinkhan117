@@ -83,7 +83,7 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 
 ---
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan117&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=c9d1d9&area=true&area_color=00C853" width="100%"/>
@@ -93,7 +93,7 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 
 ![snake gif](https://github.com/mohsinkhan117/mohsinkhan117/blob/output/github-contribution-grid-snake.svg)
 
----
+--- -->
 
 ## 🏆 Key Achievements
 
