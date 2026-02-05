@@ -1,59 +1,102 @@
-<h1 align="center">👋 Hi, I'm M Mohsin Khan</h1>
+<h1 align="center">M Mohsin Khan</h1>
 <h3 align="center">Flutter Mobile Developer | Android & iOS Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+Exceptional+Mobile+Apps;Flutter+Developer+Expert;Android+%26+iOS+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Building+Scalable+Mobile+Solutions;Expert+in+Cross-Platform+Development;Passionate+About+Clean+Code+Architecture" alt="Typing SVG" />
 </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
+---
 
-## 🚀 About Me
-I'm a passionate Flutter developer specializing in building high-performance mobile applications for Android and iOS. With expertise in full-stack mobile development, I create seamless user experiences backed by robust backend integration.
+## 🚀 Professional Overview
+
+Dedicated Flutter developer specializing in high-performance, scalable mobile applications for Android and iOS platforms. I focus on clean architecture, seamless user experiences, and robust backend integration to deliver production-ready solutions.
+
+**Current Focus:**
+- 🔭 Building **Track_it** - Flutter-based attendance & assignment tracking system
+- 🌱 Exploring **Machine Learning integration** in mobile applications
+- 💡 Developing **production-ready applications** with scalable architecture
 
 ---
 
-## 🐍 GitHub Contributions Snake
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## 💻 Core Competencies
 
-*This animation shows a snake eating through my GitHub contributions!*
+<table>
+<tr>
+<td width="50%">
+
+**Mobile Development**
+- Flutter & Dart
+- Android & iOS Development
+- Cross-Platform Solutions
+- Custom UI Components
+- State Management (Provider, Riverpod, Bloc)
+
+</td>
+<td width="50%">
+
+**Backend & Architecture**
+- Clean Architecture & MVVM
+- REST API Integration
+- Firebase (Auth, Firestore, Cloud)
+- AWS Services
+- Database Design (MySQL, PostgreSQL, SQLite)
+
+</td>
+</tr>
+</table>
+
+**Development Principles:** Clean Code • Performance Optimization • Scalable Architecture • User Experience • Comprehensive Testing
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technology Stack
 
 <div align="center">
-  
-  ### My GitHub Statistics
-  ![Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  
-  ### Most Used Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-  ### Contribution Streak
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true)
-  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 📊 GitHub Statistics
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinkhan117&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00C853&text_color=ffffff" alt="Top Languages" />
+</div>
 
-### **Backend & Databases**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=dark&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+</div>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohsinkhan117/mohsinkhan117/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ Developed production-ready Flutter applications with scalable architecture
+- ⚡ Optimized app performance through efficient state management
+- 🎯 Delivered cross-platform solutions with single codebase efficiency
+- 🔗 Integrated complex REST APIs and real-time databases
+- 🧪 Maintained comprehensive testing for application quality
 
 ---
 
@@ -61,36 +104,27 @@ I'm a passionate Flutter developer specializing in building high-performance mob
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhsin-archon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohsinkhanmandan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=923315265967&text=Hi%2C%20Mohsin%20Khan" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://stackoverflow.com/users/32317822/mohsin-khan" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </div>
-
----
-
-## 🔧 My Workflow
-
-- **Cross-Platform Development**: Building apps for both Android & iOS with single codebase
-- **State Management**: Expert in Provider, Riverpod, and BloC patterns
-- **API Integration**: RESTful APIs, Firebase Services, AWS Amplify
-- **Database Design**: SQL & NoSQL database architecture and optimization
-- **CI/CD**: Automated testing and deployment pipelines
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohsinkhan117&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/mohsinkhan117/profile?style=flat-square&color=green&label=Last+Update" alt="Last Update" />
-</div>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=mohsinkhan117&style=flat-square&color=00C853&label=Profile+Views)
+
+**"Transforming ideas into exceptional mobile experiences"**
+
+⭐ Open to freelance opportunities and collaborations
+
+</div>
