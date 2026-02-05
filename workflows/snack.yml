@@ -17,10 +17,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contributions Snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mohsinkhan117
@@ -28,7 +28,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
