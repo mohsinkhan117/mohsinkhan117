@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Mobile Developer | Android & iOS Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Building+Scalable+Mobile+Solutions;Expert+in+Cross-Platform+Development; Passionate+About+Clean+Code+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Building+Scalable+Mobile+Solutions;Expert+in+Cross-Platform+Development;Passionate+About+Clean+Code+Architecture" alt="Typing SVG" />
 </p>
 
 ---
