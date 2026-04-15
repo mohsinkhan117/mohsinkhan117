@@ -67,6 +67,8 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -74,7 +76,7 @@ Dedicated Flutter developer specializing in high-performance, scalable mobile ap
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
