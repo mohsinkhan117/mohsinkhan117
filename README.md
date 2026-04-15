@@ -6,38 +6,42 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsin-archon/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinkhanmandan@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32317822/mohsin-khan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923315265967)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinkhanmandan@gmail.com)
 
 </div>
 
 ---
 
 ### ⚡ Quick Overview
-A dedicated **Flutter Developer** focused on building high-performance, scalable mobile solutions. I bridge the gap between complex backend logic and seamless UI/UX.
+Dedicated **Flutter Developer** building high-performance mobile solutions. Focused on the intersection of clean architecture and seamless user experiences.
 
 * 🔭 **Current Project:** [Track_it](https://github.com/mohsinkhan117) — Attendance & Management System.
 * 🌱 **Learning:** Machine Learning integration for mobile ecosystems.
-* 🎯 **Goal:** Delivering production-ready, clean-code architectures.
+* 🎯 **Goal:** Delivering production-ready, scalable architectures.
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,aws,mysql,postgres,cpp,python,git,android,apple" />
+</p>
 
 | 📱 Mobile & UI | ⚙️ Backend & Architecture |
 | :--- | :--- |
 | **Flutter / Dart** | **Firebase / AWS** |
 | State Management (Bloc, Provider) | Clean Architecture (MVVM) |
 | Responsive Layouts | REST API Integration |
-| Custom Animations | SQL / NoSQL Databases |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,aws,mysql,postgres,cpp,python,git,android,apple" />
-</p>
 
 ---
 
-### 📊 Performance Metrics
+### 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" width="80%" alt="GitHub Streak" />
+</p>
 
 <table width="100%">
   <tr>
@@ -48,19 +52,14 @@ A dedicated **Flutter Developer** focused on building high-performance, scalable
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohsinkhan117&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" width="100%"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan117&theme=radical&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" width="100%"/>
-    </td>
-  </tr>
 </table>
 
 ---
 
 ### 🚀 Key Achievements
-* ✅ **Scalable Apps:** Built & deployed production-ready Flutter applications.
-* ⚡ **Optimization:** Reduced app latency via efficient state management.
-* 🔗 **Integration:** Seamlessly connected complex real-time database structures.
+* ✅ **Scalable Apps:** Deployed production-ready Flutter applications.
+* ⚡ **Performance:** Reduced app latency via optimized state management.
+* 🔗 **Backend:** Integrated complex real-time database and REST structures.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohsinkhan117&style=flat-square&color=00C853&label=PROFILE+VIEWS" />
