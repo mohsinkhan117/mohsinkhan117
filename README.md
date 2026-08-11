@@ -36,6 +36,14 @@ focus        offline-first caching, role-based routing, clean architecture
 
 <br/>
 
+## Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohsinkhan117&theme=default&background=00000000&border=1F2937&ring=1AA37A&fire=1AA37A&currStreakLabel=1AA37A&sideLabels=4B5563&dates=6B7280&hide_border=true" alt="GitHub streak stats" width="85%" />
+</div>
+
+<br/>
+
 ## Selected work
 
 **Genius — ETEA/MDCAT prep platform**
