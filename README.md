@@ -39,7 +39,7 @@ focus        offline-first caching, role-based routing, clean architecture
 ## Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohsinkhan117&theme=default&background=00000000&border=1F2937&ring=1AA37A&fire=1AA37A&currStreakLabel=1AA37A&sideLabels=4B5563&dates=6B7280&hide_border=true" alt="GitHub streak stats" width="85%" />
+  <img src="https://streak-stats.demolab.com/?user=mohsinkhan117&theme=default&background=0D1117&border=0D1117&ring=1AA37A&fire=1AA37A&currStreakLabel=1AA37A&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak stats" width="85%" />
 </div>
 
 <br/>
